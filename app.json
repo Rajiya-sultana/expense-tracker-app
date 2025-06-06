@@ -1,48 +1,28 @@
 {
   "expo": {
-    "scheme": "expensetracker",
     "name": "expense-tracker",
     "slug": "expense-tracker",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "platforms": [
-      "ios"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.user.expensetracker",
-      "buildNumber": "1.0.0",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
       "package": "com.user.expensetracker"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "ios": {
+      "supportsTablet": true
     },
-    "plugins": [
-      "expo-router"
-    ],
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "d88ed8c6-c60d-4bbd-8b84-184599ddaeb4"
-      }
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
     }
   }
 }
