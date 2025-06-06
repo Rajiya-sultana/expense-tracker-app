@@ -102,20 +102,6 @@ Heuristic	Application
 9. Help users recognize, diagnose, and recover from errors	Error states (like missing inputs) can be added for improvements later.
 10. Help and documentation	Intuitive design means minimal documentation is needed, but can be extended with a Help section if desired.
 
-🖼️ Assets
-Ensure all asset files like:
-
-./assets/icon.png
-
-./assets/splash-icon.png
-
-./assets/adaptive-icon.png
-
-./assets/favicon.png
-
-./assets/build-screenshot.png (for build proof)
-
-exist in the assets folder. Otherwise, update or create them as needed.
 
 📄 License
 This project is licensed under the MIT License.
