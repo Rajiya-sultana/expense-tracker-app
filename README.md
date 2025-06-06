@@ -48,7 +48,7 @@ Check out the live app preview on Expo Go:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Rajiya-sultana/expense-tracker-app
    cd expense-tracker
 Install dependencies:
 
