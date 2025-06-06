@@ -14,15 +14,26 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.user.expensetracker"
+      "package": "com.user.expensetracker",
+      "runtimeVersion": "1.0.0"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "updates": {
       "enabled": true,
       "checkAutomatically": "ON_LOAD",
-      "fallbackToCacheTimeout": 0
-    }
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/d88ed8c6-c60d-4bbd-8b84-184599ddaeb4"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d88ed8c6-c60d-4bbd-8b84-184599ddaeb4"
+      }
+    },
+    "owner": "costume"
   }
 }
