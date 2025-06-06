@@ -18,8 +18,7 @@ A simple yet powerful mobile app built with **React Native** and **Expo** to hel
 
 The iOS simulator build completed successfully on June 06, 2025. Below is a screenshot of the build status:
 
-![EAS Build Screenshot](![build-screenshot](https://github.com/user-attachments/assets/bb800811-7686-4ac4-b3a8-33f25ee2f841)
-)
+📄 [View Build Screenshot (PDF)](../assets/build-screenshot.pdf)
 
 **Build Details:** [View on EAS](https://expo.dev/accounts/costume/projects/expense-tracker/builds/c521b28d-e190-4e81-bdc5-b86c6100827d)
 
