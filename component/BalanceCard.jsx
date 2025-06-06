@@ -3,6 +3,7 @@ import React from "react";
 import { styles } from "../assets/styles/home.styles";
 import { COLORS } from "../constants/colors";
 
+
 const BalanceCard = ({ summary }) => {
   return (
     <View style={styles.balanceCard}>
